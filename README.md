@@ -1,6 +1,10 @@
 Amigo Secreto 🎉
 Esta es una sencilla aplicación web desarrollada en HTML, CSS y JavaScript que permite a los usuarios ingresar una lista de nombres de amigos y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
+Aqui puedes probar este codigo
+https://rauto77.github.io/rauto77.github.io-challenge/
+
+
 Características ✨
 Los usuarios pueden:
 
